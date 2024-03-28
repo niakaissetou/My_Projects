@@ -2,6 +2,8 @@
 The goal of this project is to implement Wolfram’s elementary cellular automaton in the terminal.
 rule 30, rule 90 and rule 110 are implemented.
 
+USAGE: ./wolfram --rule r --start s --lines l --window w --move m
+
 options that should be done:
 • --rule : the ruleset to use (no default value, mandatory)
 
